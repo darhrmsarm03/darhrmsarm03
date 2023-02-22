@@ -11,7 +11,7 @@
 
 - 📝 I regularly check on [latest technologies]
 
-- 💬 Ask me about **❓Ask me about anything related to web programming and related technologies**
+- 💬 Ask me about **anything related to web programming and related technologies**
 
 - 📫 How to reach me **Sirmie_8364@yahoo.com**
 
