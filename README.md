@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Any kind of project**
 
-- 📝 I regularly check on [latest technologies]
+- 📝 I regularly check on [[latest technologies]]
 
 - 💬 Ask me about **anything related to web programming and related technologies**
 
