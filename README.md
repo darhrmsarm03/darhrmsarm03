@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darhrmsarm03&label=Profile%20views&color=0e75b6&style=flat" alt="darhrmsarm03" /> </p>
 
-- 🔭 I’m currently working on Application software
+- 🔭 I’m currently working on **Application software**
 
 - 👯 I’m looking to collaborate on **Any kind of project**
 
-- 📝 I regularly check on [latest technologies]
+- 📝 I regularly check on **latest technologies**
 
 - 💬 Ask me about **anything related to web programming and related technologies**
 
