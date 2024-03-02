@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darhrmsarm03&label=Profile%20views&color=0e75b6&style=flat" alt="darhrmsarm03" /> </p>
 
-- 🔭 I’m currently working on **Application software**
+- 🔭 I’m currently working on **web and app development**
 
 - 👯 I’m looking to collaborate on **Any kind of project**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything related to web programming and related technologies**
 
-- 📫 How to reach me **Sirmie_8364@yahoo.com**
+- 📫 How to reach me **Sirmie8364@gmail.com**
 
 - ⚡ Fun fact **I use tabs over spaces**
 
