@@ -2,7 +2,7 @@
 <h3 align="center">A freelance web developer 👨‍💻 working remotely 🚀</h3>
 
 
-<img align ="right" alt="coding" width="400" border-radius = "20px" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img align ="right" alt="coding" width="400" style="border-radius = 10px"  src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darhrmsarm03&label=Profile%20views&color=0e75b6&style=flat" alt="darhrmsarm03" /> </p>
 
