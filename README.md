@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **web and app development**
 
-- 👯 I’m looking to collaborate on **Any kind of project**
+- 👯 I’m looking to collaborate on **any kind of project**
 
 - 📝 I regularly check on **latest technologies**
 
-- 💬 Ask me about **anything related to web programming and related technologies**
+- 💬 Ask me about **anything related to programming and related technologies**
 
 - 📫 How to reach me **Sirmie8364@gmail.com**
 
