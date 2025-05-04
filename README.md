@@ -2,10 +2,6 @@
 <h3 align="center">A freelance web developer 👨‍💻 working remotely 🚀</h3>
 
 
-<img align ="right" alt="coding" width="400"  src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darhrmsarm03&label=Profile%20views&color=0e75b6&style=flat" alt="darhrmsarm03" /> </p>
-
 - 🔭 I’m currently working on **web and app development**
 
 - 👯 I’m looking to collaborate on **any kind of project**
