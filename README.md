@@ -18,8 +18,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=darhrmsarm03&show_icons=true"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darhrmsarm03" alt="darhrmsarm03" /></p>
-
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=darhrmsarm03)](https://git.io/streak-stats)
 
 <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=darhrmsarm03" alt="GitHub Streak" /></a>
