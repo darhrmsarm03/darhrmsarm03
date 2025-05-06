@@ -22,5 +22,7 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=darhrmsarm03" alt="darhrmsarm03" /></p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darhrmsarm03)](https://git.io/streak-stats)
+
 
 
