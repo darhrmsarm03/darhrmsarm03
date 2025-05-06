@@ -20,8 +20,6 @@
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=darhrmsarm03)](https://git.io/streak-stats)
 
-<p><img src="https://git-hub-streak-stats.vercel.app?user=darhrmsarm03" alt="GitHub Streak" /></p>
-
 
 
 
