@@ -20,3 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darhrmsarm03&" alt="darhrmsarm03" /></p>
 
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=darhrmsarm03" alt="GitHub Streak" /></a>
+
