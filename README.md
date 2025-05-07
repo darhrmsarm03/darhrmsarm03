@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel Obisesan</h1>
-<h3 align="center">A freelance web developer 👨‍💻 working remotely 🚀</h3>
+<h3 align="center">A freelance web developer 👨‍💻 🚀</h3>
 
 
-- 🔭 I’m currently working on **web and app development**
+- 🔭 I’m currently working on **web development**
 - 👯 I’m looking to collaborate on **any kind of project**
 - 📝 I regularly check on **latest technologies**
 - 💬 Ask me about **anything related to programming and related technologies**
