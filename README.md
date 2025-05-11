@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Obisesan</h1>
+<h2 align="center">Hi 👋, I'm Samuel Obisesan</h2>
 <h3 align="center">A freelance web developer 👨‍💻 🚀</h3>
 
 
